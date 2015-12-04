@@ -1,2 +1,3 @@
 New file about Pluto
 Pluto is a dog, no a planet
+Any line to test
